@@ -1,6 +1,6 @@
 # LAZY APPROXIMATE CMYK TO RGB CONVERSION
 
-This is a loosely weighted method of converting from CMYK to RGB while maintaing perceptual similarity.
+This is a loosely weighted method of converting from CMYK to RGB while maintaining some semblance of perceptual similarity.
 
 Traditional 'naive' formula I see on the internet is as follow:
 
