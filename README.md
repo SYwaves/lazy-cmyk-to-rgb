@@ -18,4 +18,4 @@ Traditional 'naive' formula I see on the internet is as follow:
 
 Which incorrectly maps the smaller CMYK gamut 1:1 with the larger RGB gamut, typically resulting in conversion into colors that the original CMYK format can not actually display.
 
-This is not meant for any sort of serious work, as accuracy cannot be achieved without an ICC profile.
+This is not meant for any sort of serious work, as accuracy cannot be achieved without an ICC profile - This emulates a CMYK US Web Coated (SWOP) v2 to sRGB  conversion.
